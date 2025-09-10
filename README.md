@@ -36,7 +36,6 @@ offensive-security-journey/
 ## 📘 How to Use This Repo
 - Browse **LearningNotes** for my cheat sheets & quick commands  
 - Explore **CTFs** for my writeups (TryHackMe, HTB, VulnHub, picoCTF)  
-- Check **Certifications** for my CEH & EJPTv2 study notes  
 - Look into **Projects** for my hands-on labs and pentesting simulations  
 - Visit **Tools** for my practical usage notes  
 
