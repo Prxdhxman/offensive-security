@@ -50,6 +50,6 @@ offensive-security-journey/
 
 ⚡ This repo grows as I continue learning, hacking, and documenting my offensive security path.  
 Stay tuned 🚀
-```
+
 
 
