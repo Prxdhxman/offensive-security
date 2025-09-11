@@ -1,4 +1,4 @@
-# Offensive-security
+# pradhyuman-offsec
 
 This repository documents **my personal journey into Offensive Security & Penetration Testing**.  
 It contains everything I study, practice, and build on my path to becoming a professional penetration tester.  
