@@ -17,11 +17,13 @@ I use this repo to:
 ```
 
 offensive-security-journey/
+├── BugBounty/        → Recon notes, methodologies, and bug bounty writeups (HackerOne, Bugcrowd, etc.)
 ├── Certifications/   → Track my certifications progress
 ├── CTFs/             → TryHackMe, HackTheBox, VulnHub, picoCTF writeups
 ├── Tools/            → Guides & notes for tools I use
 ├── Projects/         → My security projects & homelab setups
-└── LearningNotes/    → Cheat sheets (Linux, Web, Network, PrivEsc, etc.)
+├── LearningNotes/    → Cheat sheets (Linux, Web, Network, PrivEsc, etc.)
+└── Web-Exploitation/ → Deep dive into web vulns (SQLi, XSS, SSRF, IDOR, LFI/RFI, Authentication bypasses, etc.)
 
 ```
 
