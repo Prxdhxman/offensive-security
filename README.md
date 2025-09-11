@@ -42,6 +42,8 @@ offensive-security-journey/
 ---
 
 ## 🔗 Follow My Journey
+- 🔗 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/pradhyuman-singh-pancholi-409872267"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" /> </a> <a href="https://x.com/prxdhxman"> <img src="https://img.shields.io/badge/Twitter-Follow-black?logo=twitter&style=flat-square" /> </a> </p>
 - [LinkedIn](www.linkedin.com/in/pradhyuman-singh-pancholi-409872267)  
 - [Twitter](https://x.com/prxdhxman)  
 
